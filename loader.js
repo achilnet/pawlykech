@@ -1,5 +1,5 @@
 // Collez ici le lien CSV publié de votre Google Sheet. Laissez vide pour utiliser les produits intégrés à app.js.
-const SHEET_URL = "https://docs.google.com/spreadsheets/d/1T78KpmVshLQe7URRK4Y_Fq4wp8wwLQRa9Z7f7IOvg0k/edit?usp=sharing";
+const SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHmtbzFThJqrJNsKPYY2p74XczNK3IvR-opRUdCSb650jQUXx_ax-KqytWJyuL7VrUPyGbUtS3EKMu/pub?output=csv";
 
 function parseCSV(t){const r=[];let row=[],f="",q=false;for(let i=0;i<t.length;i++){const c=t[i];
 if(q){if(c=='"'){if(t[i+1]=='"'){f+='"';i++}else q=false}else f+=c}
