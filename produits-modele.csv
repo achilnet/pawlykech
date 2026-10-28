@@ -1,0 +1,41 @@
+﻿id,animal,categorie,souscategorie,nom,prix,ancien_prix,emoji,description,caracteristiques,image,actif,source_prix
+1,chien,alimentation,Croquettes,Croquettes chien adulte 3 kg,287,,🥣,Repas quotidien complet pour chien adulte.,Poids:3 kg|Âge:Adulte,,oui,"Marjane Mall (Ownat 3 kg, 287 DH ; autres croquettes chien 1,5-2 kg : 54-62 DH)"
+2,chien,alimentation,Croquettes,Croquettes chien adulte 12 kg,590,650,🥣,Grand format économique pour un ou plusieurs chiens.,Poids:12 kg|Âge:Adulte,,oui,Estimation non vérifiée
+3,chien,alimentation,Croquettes,Croquettes chiot 3 kg,210,,🐕,Recette adaptée à la croissance jusqu'à 12 mois.,Poids:3 kg|Âge:Chiot,,oui,Estimation non vérifiée
+4,chien,alimentation,Pâtées,Pâtée chien au bœuf 400 g,18,,🥫,Boîte tendre à servir seule ou avec des croquettes.,Poids:400 g,,oui,Estimation non vérifiée
+5,chien,friandises,Dentaires,Bâtonnets dentaires,39,,🦴,À mâcher pour occuper et entretenir les dents.,Quantité:7 bâtonnets,,oui,Estimation non vérifiée
+6,chien,friandises,Biscuits,Biscuits au poulet 200 g,29,35,🍪,Petites récompenses croquantes pour l'éducation.,Poids:200 g,,oui,Estimation non vérifiée
+7,chien,accessoires,Jouets,Balle en caoutchouc,35,,🎾,Jouet résistant pour les parties de lancer.,Diamètre:6 cm,,oui,Estimation non vérifiée
+8,chien,accessoires,Jouets,Haltère à mâcher,99,150,🏋️,"Caoutchouc robuste, anti-stress et nettoyage dentaire.",Matière:Caoutchouc naturel,,oui,Estimation non vérifiée
+9,chien,accessoires,Colliers & laisses,"Laisse nylon 1,5 m",79,,🦮,"Solide, avec poignée confortable.","Longueur:1,5 m",,oui,Estimation non vérifiée
+10,chien,accessoires,Colliers & laisses,Harnais réglable,129,,🎽,"Réglable, limite la traction sur le cou.",Tailles:S / M / L,,oui,Estimation non vérifiée
+11,chien,accessoires,Couchage,Coussin moelleux,220,,🛏️,Un coin douillet et lavable.,Taille:60 x 45 cm,,oui,Estimation non vérifiée
+12,chien,accessoires,Transport,Cage de transport M,249,,🧳,Transport sécurisé pour le vétérinaire ou les trajets.,Taille:M,,oui,Estimation non vérifiée
+13,chien,accessoires,Gamelles,Gamelle inox antidérapante,55,,🍽️,"Facile à nettoyer, base antidérapante.",Contenance:500 ml,,oui,Estimation non vérifiée
+14,chien,hygiene,Brosses,Brosse de toilettage,65,,🪮,Retire les poils morts et démêle.,Usage:Chiens et chats,,oui,Estimation non vérifiée
+15,chien,hygiene,Shampoings,Shampoing doux 250 ml,59,,🧴,Nettoie sans agresser la peau.,Contenance:250 ml,,oui,Estimation non vérifiée
+16,chien,antiparasitaires,Sprays,Spray antiparasitaire 200 ml,70,80,🛡️,Contre puces et tiques. Suivre les conseils du vétérinaire.,Contenance:200 ml,,oui,Estimation non vérifiée
+17,chat,alimentation,Croquettes,Croquettes chat adulte 2 kg,181,,🐟,"Repas complet pour chat adulte, saveur poisson.",Poids:2 kg|Âge:Adulte,,oui,"Marjane Mall (Prestige 2 kg, 181 DH ; Reflex 144 ; Quaty 58,50 ; Marjane 49,95)"
+18,chat,alimentation,Croquettes,Croquettes chat stérilisé 2 kg,144,,🐈,Formule pour garder la ligne du chat stérilisé.,Poids:2 kg|Profil:Stérilisé,,oui,"Marjane Mall (Reflex saumon stérilisé 2 kg, 144 DH)"
+19,chat,alimentation,Pâtées,Pâtée chaton lot de 6,70,84,🥫,Barquettes tendres pour chatons.,Lot:6 x 85 g,,oui,Estimation non vérifiée
+20,chat,friandises,Sticks,Sticks au saumon 3 x 5 g,7,,🍣,Friandise à croquer pour récompenser.,Lot:3 x 5 g,,oui,Estimation non vérifiée
+21,chat,litiere,Litières,Litière agglomérante 10 L,95,,🪣,Forme des boules faciles à retirer.,Volume:10 L,,oui,"Marjane Mall (Kikikat 10 L, 95 DH ; Quaty minéral 10 L, 53,95 DH). Produits non agglomérants"
+22,chat,litiere,Bacs à litière,Bac à litière à rebord,299,,📦,Rebords hauts contre les éclaboussures.,Taille:Moyenne,,oui,"Marjane Mall (Shuttle 57 cm, 299 DH ; autre bac 117 DH)"
+23,chat,litiere,Bacs à litière,Bac à litière fermé grande taille,250,,🚽,"Fermé, avec pelle intégrée.",Taille:Grande,,oui,Estimation non vérifiée
+24,chat,accessoires,Jouets,Canne à pêche à plumes,35,,🪶,Jouet interactif pour jouer ensemble.,Longueur:50 cm,,oui,Estimation non vérifiée
+25,chat,accessoires,Arbres à chat,Arbre à chat 102 cm,2000,,🌳,"Griffoir, plateforme et niche.",Hauteur:102 cm,,oui,Marjane Mall (modèles 98-102 cm : 1500 à 2000 DH)
+26,chat,accessoires,Gamelles,Fontaine à eau 2 L,260,,⛲,Eau en circulation pour inciter à boire.,Capacité:2 L,,oui,Estimation non vérifiée
+27,chat,accessoires,Transport,Sac de transport respirant,229,,🎒,Avec fenêtre et matelas amovible.,Taille:42 x 27 x 34 cm,,oui,Estimation non vérifiée
+28,chat,hygiene,Brosses,Gant de toilettage,30,45,🧤,"Brossage et massage, récupère les poils.",Matière:Silicone,,oui,Estimation non vérifiée
+29,chat,hygiene,Toilettage,Coupe-griffes,35,40,✂️,Pour raccourcir les griffes en sécurité.,Taille:Petite à moyenne,,oui,Estimation non vérifiée
+30,chat,antiparasitaires,Pipettes,Pipette antipuces chat,110,,💧,À choisir selon le poids. Demandez conseil.,Vente:Sur conseil,,oui,Estimation non vérifiée
+31,oiseau,alimentation,Graines,Mélange de graines perruches 1 kg,45,,🌾,Mélange varié pour perruches.,Poids:1 kg,,oui,Estimation non vérifiée
+32,oiseau,accessoires,Cages,Cage pour oiseaux,380,,🐦,Cage avec perchoirs et mangeoires.,Taille:Moyenne,,oui,Estimation non vérifiée
+33,oiseau,accessoires,Mangeoires,Mangeoire extérieure,60,,🪺,À suspendre au jardin ou au balcon.,Usage:Extérieur,,oui,Estimation non vérifiée
+34,poisson,alimentation,Flocons,Flocons poissons tropicaux,35,,🐠,Aliment quotidien en flocons.,Poids:100 g,,oui,Estimation non vérifiée
+35,poisson,accessoires,Filtres,Filtre intérieur,140,,🫧,Pour garder une eau claire.,Usage:Aquarium 40 à 80 L,,oui,Estimation non vérifiée
+36,poisson,accessoires,Aquariums,Aquarium 40 L avec couvercle,650,,🐡,Idéal pour débuter.,Volume:40 L,,oui,Estimation non vérifiée
+37,rongeur,alimentation,Foin,Foin de prairie 1 kg,40,,🌿,Base de l'alimentation des lapins et cobayes.,Poids:1 kg,,oui,Estimation non vérifiée
+38,rongeur,alimentation,Granulés,Granulés lapin 2 kg,85,,🐇,Aliment complet pour lapin.,Poids:2 kg,,oui,Estimation non vérifiée
+39,rongeur,accessoires,Cages,Cage pour hamster,320,,🐹,"Avec roue, abreuvoir et maisonnette.",Taille:Moyenne,,oui,Estimation non vérifiée
+40,rongeur,hygiene,Litière,Litière copeaux 3 kg,50,,🪵,Absorbante et douce.,Poids:3 kg,,oui,Estimation non vérifiée
