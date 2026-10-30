@@ -60,7 +60,7 @@ $("ft").innerHTML=`<footer class="site"><div class="wrap"><div class="cols"><div
 <div><h4>Boutique</h4>${ans.map(a=>`<a href="boutique.html?animal=${a}">${AN[a][0]}</a>`).join("")}<a href="boutique.html?promo=1">Promotions</a></div>
 <div><h4>Informations</h4><a href="infos.html#livraison">Livraison</a><a href="infos.html#retours">Retours</a><a href="infos.html#apropos">À propos</a><a href="conseils.html">Conseils</a></div>
 <div><h4>Contact</h4><p>Commandes et questions sur WhatsApp.</p><a href="#" class="wa">Écrire à Pawly</a><a href="contact.html">Page contact</a></div></div>
-<div class="copy">© ${new Date().getFullYear()} Pawly. Prix et produits donnés à titre d'exemple, à valider avant lancement.</div></div></footer>
+<div class="copy">© ${new Date().getFullYear()} Pawly. <div class="copy">© ${new Date().getFullYear()} Pawly. Tous droits réservés.</div>.</div></div></footer>
 <div class="ov" id="ov"></div>
 <aside class="drawer" id="dr" aria-label="Panier"><div class="dh"><h2>Votre panier</h2><button class="x" id="cx" aria-label="Fermer">×</button></div><div class="items" id="it"></div>
 <div class="db"><div class="row"><span>Livraison à Marrakech</span><b>Gratuite</b></div><div class="row tot"><span>Total estimé</span><span id="tt">0 DH</span></div><button class="btn sun" id="co">Commander sur WhatsApp</button></div></aside>
